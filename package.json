@@ -1,0 +1,12 @@
+{
+  "name": "n8n-stormkit",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step needed'",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "n8n": "^1.81.0"
+  }
+}

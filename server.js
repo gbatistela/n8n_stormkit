@@ -1,0 +1,1 @@
+import("n8n").then(m => m.start());
